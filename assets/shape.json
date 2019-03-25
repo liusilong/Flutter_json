@@ -1,0 +1,7 @@
+{
+  "name": "rectangle",
+  "property": {
+    "width": 5.0,
+    "height": 10.0
+  }
+}
